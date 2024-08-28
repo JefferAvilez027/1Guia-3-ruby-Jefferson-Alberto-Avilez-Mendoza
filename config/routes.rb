@@ -1,4 +1,4 @@
 Rails.application.routes.draw do
-  root 'application#hola'
+  root 'application#textoh'
 
 end
